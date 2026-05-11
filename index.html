@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JAVIS 핫딜</title>
+  <meta name="description" content="뽐뿌·클리앙·루리웹 핫딜 모음">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="javis-nav">
+  <a class="javis-nav__home" href="https://legendart.github.io/">⬡ JAVIS</a>
+  <div class="javis-nav__links">
+    <a href="https://legendart.github.io/news/">📡 <span class="nav-label">뉴스</span></a>
+    <a href="https://legendart.github.io/humor/">😂 <span class="nav-label">유머</span></a>
+    <a href="https://legendart.github.io/star/">⭐ <span class="nav-label">스타</span></a>
+    <a class="active" href="https://legendart.github.io/hotdeal/">🔥 <span class="nav-label">핫딜</span></a>
+  </div>
+</nav>
+
+<header class="header">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-logo">🔥</div>
+      <div>
+        <div class="brand-name">JAVIS 핫딜</div>
+        <div class="brand-sub">Hot Deals</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="filter-tabs" id="filterTabs"></div>
+
+<div class="status-bar">
+  <span class="status-dot loading" id="statusDot"></span>
+  <span id="statusText">불러오는 중...</span>
+</div>
+
+<main class="grid" id="grid"></main>
+
+<footer>JAVIS 핫딜 &mdash; 커뮤니티 핫딜 aggregator</footer>
+
+<script type="module" src="js/main.js?v=1"></script>
+</body>
+</html>
