@@ -5,9 +5,9 @@
     "title": "[네이버페이앱] 간식 무료",
     "url": "https://www.clien.net/service/board/jirum/19213533?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15759133/2ce082882bee42.jpeg?scale=width:480",
-    "score": 263000,
-    "views": 263000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 272000,
+    "views": 272000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19212407?od=T31&po=0&category=0&groupCd=",
@@ -15,9 +15,9 @@
     "title": "[iOS] Avenly - 여행 플래너 일시 무료",
     "url": "https://www.clien.net/service/board/jirum/19212407?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15757447/2c27c3f52b9f19.webp?scale=width:480",
-    "score": 145000,
-    "views": 145000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 147000,
+    "views": 147000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19212353?od=T31&po=0&category=0&groupCd=",
@@ -25,19 +25,9 @@
     "title": "[iOS] Incredibox (900원)",
     "url": "https://www.clien.net/service/board/jirum/19212353?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15757373/1277ce9a5e7be8.png?scale=width:480",
-    "score": 133000,
-    "views": 133000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "/service/board/jirum/19212154?od=T31&po=0&category=0&groupCd=",
-    "site": "clien",
-    "title": "토스)듀오덤 밴드 혼합형 8매입 3800원",
-    "url": "https://www.clien.net/service/board/jirum/19212154?od=T31&po=0&category=0&groupCd=",
-    "thumb": "https://edgio.clien.net/F01/2026/6/15757042/1244654b674fe2.webp?scale=width:480",
-    "score": 131000,
-    "views": 131000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 134000,
+    "views": 134000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19212222?od=T31&po=0&category=0&groupCd=",
@@ -45,9 +35,9 @@
     "title": "[스팀] 소닉 매니아 90% 할인 2,000원",
     "url": "https://www.clien.net/service/board/jirum/19212222?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15757099/15311edfc34c1f.jpg?scale=width:480",
-    "score": 127000,
-    "views": 127000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 129000,
+    "views": 129000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19212641?od=T31&po=0&category=0&groupCd=",
@@ -55,19 +45,9 @@
     "title": "[iOS] 요가 호흡 운동 IAP 일시 무료",
     "url": "https://www.clien.net/service/board/jirum/19212641?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15757745/2c5dc147c5b086.webp?scale=width:480",
-    "score": 112000,
-    "views": 112000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "19211525",
-    "site": "clien",
-    "title": "[알리익스프레스] 브랜드 특가전 정보 안내 (클리앙 전용 할인코드, 결제할인)",
-    "url": "https://www.clien.net/service/board/jirum/19211525",
-    "thumb": "https://edgio.clien.net/F01/2026/6/15756242/14ce098f40a021.png?scale=width:480",
-    "score": 108000,
-    "views": 108000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 113000,
+    "views": 113000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213854?od=T31&po=0&category=0&groupCd=",
@@ -75,9 +55,19 @@
     "title": "[하이마트] 저도 산 토스터! 어서 달리세요!",
     "url": "https://www.clien.net/service/board/jirum/19213854?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15759504/102a6cc93cd603.jpg?scale=width:480",
-    "score": 108000,
-    "views": 108000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 111000,
+    "views": 111000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "19211525",
+    "site": "clien",
+    "title": "[알리익스프레스] 브랜드 특가전 정보 안내 (클리앙 전용 할인코드, 결제할인)",
+    "url": "https://www.clien.net/service/board/jirum/19211525",
+    "thumb": "https://edgio.clien.net/F01/2026/6/15756242/14ce098f40a021.png?scale=width:480",
+    "score": 109000,
+    "views": 109000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19212379?od=T31&po=0&category=0&groupCd=",
@@ -85,9 +75,9 @@
     "title": "[WearOS] SMPL 4A11 외 일시 무료",
     "url": "https://www.clien.net/service/board/jirum/19212379?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15757402/155b6009b47ca3.jpeg?scale=width:480",
-    "score": 107000,
-    "views": 107000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 109000,
+    "views": 109000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19212320?od=T31&po=0&category=0&groupCd=",
@@ -95,9 +85,9 @@
     "title": "삼성 2in1 에어컨 (카드1,850,550/무료)",
     "url": "https://www.clien.net/service/board/jirum/19212320?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15757311/2c1d88013a53ea.jpeg?scale=width:480",
-    "score": 101000,
-    "views": 101000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 103000,
+    "views": 103000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213215?od=T31&po=0&category=0&groupCd=",
@@ -105,9 +95,9 @@
     "title": "[자사몰] 좋은사람들 속옷 패밀리세일 (~6.30)",
     "url": "https://www.clien.net/service/board/jirum/19213215?od=T31&po=0&category=0&groupCd=",
     "thumb": null,
-    "score": 9931,
-    "views": 9931,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 101000,
+    "views": 101000,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213407?od=T31&po=0&category=0&groupCd=",
@@ -115,9 +105,9 @@
     "title": "19금 [Android] Rusty Lake: Roots (200원)",
     "url": "https://www.clien.net/service/board/jirum/19213407?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15758969/fe764a767a4c8.png?scale=width:480",
-    "score": 9771,
-    "views": 9771,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 9975,
+    "views": 9975,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213637?od=T31&po=0&category=0&groupCd=",
@@ -125,9 +115,9 @@
     "title": "[Android] Lara Croft GO 200원",
     "url": "https://www.clien.net/service/board/jirum/19213637?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15759243/16237d9495dcf5.jpg?scale=width:480",
-    "score": 8844,
-    "views": 8844,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 9056,
+    "views": 9056,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213556?od=T31&po=0&category=0&groupCd=",
@@ -135,9 +125,9 @@
     "title": "[iOS] GeoCam: 날씨 & 위치 일시 무료",
     "url": "https://www.clien.net/service/board/jirum/19213556?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15759157/2ce26a7e24d91d.jpeg?scale=width:480",
-    "score": 8500,
-    "views": 8500,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 8701,
+    "views": 8701,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213418?od=T31&po=0&category=0&groupCd=",
@@ -145,9 +135,9 @@
     "title": "서린씨앤아이앤몰 상반기 결산세일",
     "url": "https://www.clien.net/service/board/jirum/19213418?od=T31&po=0&category=0&groupCd=",
     "thumb": null,
-    "score": 7762,
-    "views": 7762,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 7964,
+    "views": 7964,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213636?od=T31&po=0&category=0&groupCd=",
@@ -155,9 +145,9 @@
     "title": "[Android] Wreckfest 150원",
     "url": "https://www.clien.net/service/board/jirum/19213636?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15759242/2cec989bf1667c.jpg?scale=width:480",
-    "score": 7410,
-    "views": 7410,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 7596,
+    "views": 7596,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213631?od=T31&po=0&category=0&groupCd=",
@@ -165,9 +155,9 @@
     "title": "[Android] Titan Quest 150원",
     "url": "https://www.clien.net/service/board/jirum/19213631?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15759231/2cebdaab52001f.jpg?scale=width:480",
-    "score": 7173,
-    "views": 7173,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 7366,
+    "views": 7366,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19214091?od=T31&po=0&category=0&groupCd=",
@@ -175,9 +165,9 @@
     "title": "콘티넨탈 올시즌콘택트2 235/45/18 164,670원 로켓설치",
     "url": "https://www.clien.net/service/board/jirum/19214091?od=T31&po=0&category=0&groupCd=",
     "thumb": null,
-    "score": 6786,
-    "views": 6786,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 7104,
+    "views": 7104,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19213633?od=T31&po=0&category=0&groupCd=",
@@ -185,9 +175,9 @@
     "title": "[Android] 스폰지밥 네모바지: BfBB 150원",
     "url": "https://www.clien.net/service/board/jirum/19213633?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15759234/1002ac05f6a9e2.jpg?scale=width:480",
-    "score": 6604,
-    "views": 6604,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 6778,
+    "views": 6778,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19214210?od=T31&po=0&category=0&groupCd=",
@@ -195,19 +185,9 @@
     "title": "[iOS/MacOS] OMusic – Best Offline Music 일시 무료",
     "url": "https://www.clien.net/service/board/jirum/19214210?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15760009/16874ac1f735c9.jpeg?scale=width:480",
-    "score": 6402,
-    "views": 6402,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "/service/board/jirum/19213941?od=T31&po=0&category=0&groupCd=",
-    "site": "clien",
-    "title": "[WearOS] h1501 Multicolor Watch Face 일시 무료",
-    "url": "https://www.clien.net/service/board/jirum/19213941?od=T31&po=0&category=0&groupCd=",
-    "thumb": "https://edgio.clien.net/F01/2026/6/15759635/103220af42100c.jpeg?scale=width:480",
-    "score": 5683,
-    "views": 5683,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 6753,
+    "views": 6753,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19214541?od=T31&po=0&category=0&groupCd=",
@@ -215,9 +195,19 @@
     "title": "[iOS/MacOS] Transcription Pro 리딤",
     "url": "https://www.clien.net/service/board/jirum/19214541?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15760426/16a86fbf365a6a.png?scale=width:480",
-    "score": 5397,
-    "views": 5397,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 6120,
+    "views": 6120,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "/service/board/jirum/19213941?od=T31&po=0&category=0&groupCd=",
+    "site": "clien",
+    "title": "[WearOS] h1501 Multicolor Watch Face 일시 무료",
+    "url": "https://www.clien.net/service/board/jirum/19213941?od=T31&po=0&category=0&groupCd=",
+    "thumb": "https://edgio.clien.net/F01/2026/6/15759635/103220af42100c.jpeg?scale=width:480",
+    "score": 5936,
+    "views": 5936,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19214446?od=T31&po=0&category=0&groupCd=",
@@ -225,9 +215,9 @@
     "title": "[Android] Incredibox & Evoland 2 (200원)",
     "url": "https://www.clien.net/service/board/jirum/19214446?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15760297/107d2de91c96be.png?scale=width:480",
-    "score": 4542,
-    "views": 4542,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 4953,
+    "views": 4953,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19214197?od=T31&po=0&category=0&groupCd=",
@@ -235,9 +225,9 @@
     "title": "[WearOS] HMKWatch Digital 198 일시 무료",
     "url": "https://www.clien.net/service/board/jirum/19214197?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15759982/139cff267b9d72.jpeg?scale=width:480",
-    "score": 3755,
-    "views": 3755,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 4021,
+    "views": 4021,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19214438?od=T31&po=0&category=0&groupCd=",
@@ -245,19 +235,9 @@
     "title": "[WearOS] SamWatch FIT M 2024 외 일시 무료",
     "url": "https://www.clien.net/service/board/jirum/19214438?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15760290/13bc49712b9bd1.png?scale=width:480",
-    "score": 3370,
-    "views": 3370,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "/service/board/jirum/19214749?od=T31&po=0&category=0&groupCd=",
-    "site": "clien",
-    "title": "[Waves] Plugin Pack 9종 일시 무료",
-    "url": "https://www.clien.net/service/board/jirum/19214749?od=T31&po=0&category=0&groupCd=",
-    "thumb": "https://edgio.clien.net/F01/2026/6/15760679/10a9eb771bb20d.jpeg?scale=width:480",
-    "score": 2124,
-    "views": 2124,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 3660,
+    "views": 3660,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19214895?od=T31&po=0&category=0&groupCd=",
@@ -265,9 +245,9 @@
     "title": "[네이버스토어] [메가MGC커피데이] 팥빙 젤라또 파르페 26%할인 외 (3,240원) (네멤무",
     "url": "https://www.clien.net/service/board/jirum/19214895?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15760886/2da7dcc1f3b75d.png?scale=width:480",
-    "score": 2009,
-    "views": 2009,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 3423,
+    "views": 3423,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19215019?od=T31&po=0&category=0&groupCd=",
@@ -275,9 +255,19 @@
     "title": "[네이버] 캐리어 스탠드 에어컨 16평형(카드942,270원/무배)",
     "url": "https://www.clien.net/service/board/jirum/19215019?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15760931/10c11bb5b9ba0a.jpeg?scale=width:480",
-    "score": 1380,
-    "views": 1380,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 2684,
+    "views": 2684,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "/service/board/jirum/19214749?od=T31&po=0&category=0&groupCd=",
+    "site": "clien",
+    "title": "[Waves] Plugin Pack 9종 일시 무료",
+    "url": "https://www.clien.net/service/board/jirum/19214749?od=T31&po=0&category=0&groupCd=",
+    "thumb": "https://edgio.clien.net/F01/2026/6/15760679/10a9eb771bb20d.jpeg?scale=width:480",
+    "score": 2574,
+    "views": 2574,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "19215111",
@@ -285,9 +275,9 @@
     "title": "[알리익스프레스] 6월 알급날 정보 안내 (클리앙 전용 할인코드,결제할인)",
     "url": "https://www.clien.net/service/board/jirum/19215111",
     "thumb": "https://edgio.clien.net/F01/2026/6/15760951/14022c6226358c.jpg?scale=width:480",
-    "score": 490,
-    "views": 490,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 1132,
+    "views": 1132,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "/service/board/jirum/19215111?od=T31&po=0&category=0&groupCd=",
@@ -295,59 +285,39 @@
     "title": "[알리익스프레스] 6월 알급날 정보 안내 (클리앙 전용 할인코드,결제할인)",
     "url": "https://www.clien.net/service/board/jirum/19215111?od=T31&po=0&category=0&groupCd=",
     "thumb": "https://edgio.clien.net/F01/2026/6/15760951/14022c6226358c.jpg?scale=width:480",
-    "score": 490,
-    "views": 490,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 1131,
+    "views": 1131,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "/service/board/jirum/19215448?od=T31&po=0&category=0&groupCd=",
+    "site": "clien",
+    "title": "[Android] 도어 키커스 2종 & Construction Simulator 3 (200원)",
+    "url": "https://www.clien.net/service/board/jirum/19215448?od=T31&po=0&category=0&groupCd=",
+    "thumb": "https://edgio.clien.net/F01/2026/6/15761129/10d3315bc8a572.png?scale=width:480",
+    "score": 223,
+    "views": 223,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[네이버페이] 일일적립, 클릭 73원, 라이브예고 17원(32)",
+    "title": "[네이버페이] 일일적립, 클릭 73원, 라이브예고 17원(33)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105095?",
     "thumb": null,
-    "score": 208,
-    "views": 31269,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 213,
+    "views": 35131,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[유튜브] 리미트리스 / 무료(24)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105090?",
-    "thumb": null,
-    "score": 81,
-    "views": 51726,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[롯데잇츠] 잇츠 마일리지 1,000포인트 (무료/무료)(20)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105092?",
-    "thumb": null,
-    "score": 48,
-    "views": 31429,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[PS/MS스토어] GTA 6 예판 시작 (89,800원/112,800원...(70)",
+    "title": "[PS/MS스토어] GTA 6 예판 시작 (89,800원/112,800원...(71)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105093?",
     "thumb": null,
-    "score": 47,
-    "views": 54655,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[네이버페이] 라방 5원",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105098?",
-    "thumb": null,
-    "score": 27,
-    "views": 9335,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 49,
+    "views": 59126,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
@@ -355,29 +325,9 @@
     "title": "[네이버페이] 라방 5원(6)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105098?",
     "thumb": null,
-    "score": 27,
-    "views": 9395,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[네이버] 노브랜드버거 모바일금액권 1만원권 (8,000원)(10)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105086?",
-    "thumb": null,
-    "score": 27,
-    "views": 23883,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[스팀] Blasphemous 90% 할인 2,600원",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105096?",
-    "thumb": null,
-    "score": 20,
-    "views": 28625,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 28,
+    "views": 13124,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
@@ -385,49 +335,59 @@
     "title": "[스팀] Blasphemous 90% 할인 2,600원(18)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105096?",
     "thumb": null,
-    "score": 20,
-    "views": 28670,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 21,
+    "views": 31839,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[네이버] 쿡테크 보조배터리 150W 10000mAh (29,900원)(20)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105091?",
+    "title": "[옥션] 삼양 맛있는 라면 20입 (14,230원/무료)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105115?",
     "thumb": null,
     "score": 18,
-    "views": 30846,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 6156,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[더벤티] 네이버페이 5천원 결제시 2500원 적립 (6/25)(9)",
+    "title": "[옥션] 삼양 맛있는 라면 20입 (14,230원/무료)(17)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105115?",
+    "thumb": null,
+    "score": 18,
+    "views": 6166,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[더벤티] 네이버페이 5천원 결제시 2500원 적립 (6/25)(10)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105094?",
     "thumb": null,
+    "score": 14,
+    "views": 17586,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[한국닌텐도] 사이버펑크 2077: 얼티밋 에디션 할인 (36,990원)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105116?",
+    "thumb": null,
     "score": 13,
-    "views": 15047,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 14229,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "714951",
-    "site": "ppomppu",
-    "title": "서울우유 멸균우유 1000ml x 10입 (16,500원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=714951",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/1/small_714951.jpg?t=20260625",
-    "score": 12,
-    "views": 6964,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "715266",
-    "site": "ppomppu",
-    "title": "mgc메가커피 아아 1잔 네이버멤버십대상 (1,430원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715266",
-    "thumb": "https://static.ppomppu.co.kr/www/img/noimage/noimage_60x50.jpg",
-    "score": 11,
-    "views": 3744,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[한국닌텐도] 사이버펑크 2077: 얼티밋 에디션 할인 (36,990원)(27)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105116?",
+    "thumb": null,
+    "score": 13,
+    "views": 14234,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
@@ -436,38 +396,38 @@
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105106?",
     "thumb": null,
     "score": 11,
-    "views": 13810,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 20303,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[이마트앱](NS2)스위치2 본체 648,000원(39)",
+    "title": "[이마트앱](NS2)스위치2 본체 648,000원(43)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105106?",
     "thumb": null,
     "score": 11,
-    "views": 13882,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 20362,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[쿠팡] 닌텐도 브레이블리 디폴트 플라잉 페어리 HD 리마스터 / 29,...(27)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105089?",
+    "title": "[겜우리] NS 판타지스타 아스카 크리스탈 콤비 컬렉션 예판 / 59,8...",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105110?",
     "thumb": null,
-    "score": 11,
-    "views": 45391,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 10,
+    "views": 11660,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[네이버] NS2 P의 거짓 (62,820/무배)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105099?",
+    "title": "[겜우리] NS 판타지스타 아스카 크리스탈 콤비 컬렉션 예판 / 59,8...(18)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105110?",
     "thumb": null,
-    "score": 9,
-    "views": 8372,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 10,
+    "views": 11706,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
@@ -476,38 +436,38 @@
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105099?",
     "thumb": null,
     "score": 9,
-    "views": 8399,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 12227,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[네이버] 닌텐도 스위치 2 본체 + 인기 게임 2종 (810,000원)(46)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105087?",
-    "thumb": null,
-    "score": 8,
-    "views": 24245,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[겜우리] NS 판타지스타 아스카 크리스탈 콤비 컬렉션 예판 / 59,8...(9)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105110?",
-    "thumb": null,
-    "score": 7,
-    "views": 4328,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[겜우리] PS5 비스트 오브 리인카네이션 윤회의 짐승 예약판매 / 79...(7)",
+    "title": "[겜우리] PS5 비스트 오브 리인카네이션 윤회의 짐승 예약판매 / 79...(8)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105100?",
     "thumb": null,
+    "score": 7,
+    "views": 7644,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[애플TV스토어] 최대50% 할인 특가 / 가격 다양(2)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105119?",
+    "thumb": null,
     "score": 6,
-    "views": 6113,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 3391,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[네이버쇼핑] 굿스마일 메가하우스 CCS 부시로드 하비재팬 넾다세일 쿠폰(2)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105117?",
+    "thumb": null,
+    "score": 6,
+    "views": 4913,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
@@ -515,29 +475,19 @@
     "title": "[종근당건강]프로메가 오메가3 트리플 장용성 6개월분(50,925원/무료...(8)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105108?",
     "thumb": null,
-    "score": 5,
-    "views": 2559,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 6,
+    "views": 4041,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[롯데리아] 리아데이, 치킨버거 2개 5400원 (6/25)(6)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105105?",
-    "thumb": null,
-    "score": 5,
-    "views": 4537,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[온라인 서점] 포켓몬 생태도감 특별판 예약판매(3)",
+    "title": "[온라인 서점] 포켓몬 생태도감 특별판 예약판매(4)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105102?",
     "thumb": null,
-    "score": 5,
-    "views": 5485,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 6,
+    "views": 7170,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
@@ -545,19 +495,69 @@
     "title": "[겜우리] PS5 컨트롤 레조넌트 예약 판매 / 64,800원(11)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105101?",
     "thumb": null,
-    "score": 5,
-    "views": 8007,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "score": 6,
+    "views": 9863,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[반다이몰] S.H.피규아트 암흑의 검, 불을 훔치는 자 / 144,00...",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105088?",
+    "title": "[겜우리] NS2/1 디지몬 스토리 타임 스트레인저 예약 판매 / 69,...(2)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105113?",
     "thumb": null,
     "score": 5,
-    "views": 13774,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 3794,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[롯데리아] 리아데이, 치킨버거 2개 5400원 (6/25)(7)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105105?",
+    "thumb": null,
+    "score": 5,
+    "views": 6274,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[파파이스] 25일 하루종일 치킨 1+1(16)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105111?",
+    "thumb": null,
+    "score": 4,
+    "views": 6870,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[닌텐도공홈] 스위치2 구매가능이네요 648000(25)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105109?",
+    "thumb": null,
+    "score": 4,
+    "views": 8824,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[동원몰]라이트참치 150g 10캔+150g 6캔 (27,000원/무료)(1)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105104?",
+    "thumb": null,
+    "score": 4,
+    "views": 3683,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "1020",
+    "site": "ruliweb",
+    "title": "[롯데온] 풀무원 생수 500ml 60병 (9,200원/무료)(1)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105103?",
+    "thumb": null,
+    "score": 4,
+    "views": 2718,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
@@ -566,258 +566,258 @@
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105097?",
     "thumb": null,
     "score": 4,
-    "views": 8205,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 9265,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "715114",
+    "site": "ppomppu",
+    "title": "네파 쿨맥스 데님 팬츠 남녀공용 청바지(36,810원/무배)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715114",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/4/small_715114.jpg?t=20260625",
+    "score": 3,
+    "views": 15342,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[닌텐도공홈] 스위치2 구매가능이네요 648000(24)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105109?",
+    "title": "[겜우리] PS5 건볼트 크로니클 루미너스 어벤져 iX 1+2 듀얼 / ...(2)",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105114?",
     "thumb": null,
     "score": 3,
-    "views": 5884,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "715271",
-    "site": "ppomppu",
-    "title": "다이소 10%할인 10만원권, 5만원권, 1만원권 (다양/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715271",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/1/small_715271.jpg?t=20260625",
-    "score": 2,
-    "views": 3000,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 4690,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[파파이스] 25일 하루종일 치킨 1+1(7)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105111?",
+    "title": "[반다이몰] MG 백식 크래시 프리미엄 반다이 / 76,800원",
+    "url": "https://bbs.ruliweb.com/market/board/1020/read/105118?",
     "thumb": null,
     "score": 2,
-    "views": 2886,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 3300,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "1020",
     "site": "ruliweb",
-    "title": "[동원몰]라이트참치 150g 10캔+150g 6캔 (27,000원/무료)(1)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105104?",
-    "thumb": null,
-    "score": 2,
-    "views": 2404,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[롯데온] 풀무원 생수 500ml 60병 (9,200원/무료)",
-    "url": "https://bbs.ruliweb.com/market/board/1020/read/105103?",
-    "thumb": null,
-    "score": 2,
-    "views": 1683,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "715265",
-    "site": "ppomppu",
-    "title": "라라로코 프리미엄 아보카도 중소과 10과 (9,400원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715265",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/5/small_715265.jpg?t=20260625",
-    "score": 1,
-    "views": 770,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "1020",
-    "site": "ruliweb",
-    "title": "[보드엠] 듄:아라키스 전쟁 보드게임 와디즈 펀딩",
+    "title": "[보드엠] 듄:아라키스 전쟁 보드게임 와디즈 펀딩(2)",
     "url": "https://bbs.ruliweb.com/market/board/1020/read/105112?",
     "thumb": null,
+    "score": 2,
+    "views": 4125,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "49230",
+    "site": "ppomppu",
+    "title": "라보에이치 두피 롤온 선 세럼 행사 소식(올영 라방)",
+    "url": "https://www.ppomppu.co.kr/zboard/zboard/view.php?id=social&no=49230",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0625/20260625152916_c2EhgT3tfo.png",
     "score": 1,
-    "views": 1458,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 198,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715281",
+    "id": "715345",
     "site": "ppomppu",
-    "title": "슈퍼비 중성 캡슐세제 100+100개입 (13,900원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715281",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/1/small_715281.jpg?t=20260625",
+    "title": "화평동 세숫대야 왕 냉면 10인분 세트 (9,758원/무배)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715345",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/5/small_715345.jpg?t=20260625",
     "score": 0,
-    "views": 390,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 54,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715280",
+    "id": "715344",
     "site": "ppomppu",
-    "title": "캐리어 벽걸이 에어컨 1등급 6평형 (526,650원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715280",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/0/small_715280.jpg?t=20260625",
+    "title": "맥스틸 맥세이프 대용량 보조배터리  10000mAh(18,800원/무배)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715344",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/4/small_715344.jpg?t=20260625",
     "score": 0,
-    "views": 773,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 67,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715279",
+    "id": "715343",
     "site": "ppomppu",
-    "title": "쿨링 세미 와이드 밴딩 슬랙스 여름바지 (13,200원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715279",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/9/small_715279.jpg?t=20260625",
+    "title": "레이저 게이밍이어폰 해머헤드 V3 하이퍼스피드 무선 이어폰 노이즈캔슬링 (228,000원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715343",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/3/small_715343.jpg?t=20260625",
     "score": 0,
-    "views": 1384,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 77,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715278",
+    "id": "715342",
     "site": "ppomppu",
-    "title": "슈펜 경량EVA 벨크로 샌들 (19,620원/2,500원)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715278",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/8/small_715278.jpg?t=20260625",
+    "title": "블랙야크키즈 여아전용 트윙클롱다운자켓 (77,660/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715342",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/2/small_715342.jpg?t=20260625",
     "score": 0,
-    "views": 748,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 111,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715277",
+    "id": "715341",
     "site": "ppomppu",
-    "title": "국산 멀티탭 개별 2구 (6,000원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715277",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/7/small_715277.jpg?t=20260625",
+    "title": "농심 육개장사발면 86g 24개 (15,940원)(무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715341",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/1/small_715341.jpg?t=20260625",
     "score": 0,
-    "views": 1075,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 188,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715276",
+    "id": "715340",
     "site": "ppomppu",
-    "title": "모나리자 미용티슈 280매 12개 (유클 17,190원/무배)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715276",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/6/small_715276.jpg?t=20260625",
+    "title": "프리미엄 벨기에 꼬르지엘모 파베 초코케이크 (28,800원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715340",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/0/small_715340.jpg?t=20260625",
     "score": 0,
-    "views": 488,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 189,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715275",
+    "id": "715339",
     "site": "ppomppu",
-    "title": "닥터페퍼 제로 190ml 30캔 + 스프라이트 제로 190ml 30캔 (21,230원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715275",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/5/small_715275.jpg?t=20260625",
+    "title": "스테비아 방울 토마토 500g x 4팩 (10,190원 / 뭅",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715339",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/9/small_715339.jpg?t=20260625",
     "score": 0,
-    "views": 630,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 211,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715274",
+    "id": "715338",
     "site": "ppomppu",
-    "title": "까스활 75ml 30병 (19,900원 / 무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715274",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/4/small_715274.jpg?t=20260625",
+    "title": "한경희 AI 음성인식 24단 초정밀 조절 BLDC 타워팬 냉풍기 (107,100원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715338",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/8/small_715338.jpg?t=20260625",
     "score": 0,
-    "views": 966,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 353,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715273",
+    "id": "715337",
     "site": "ppomppu",
-    "title": "K2 여성 프리미엄 트리니티 G900 롱 구스다운+조끼+티셔츠 542,380원/무료",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715273",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/3/small_715273.jpg?t=20260625",
+    "title": "빙그레 쿠앤크바 3종 40개 (18,490원/유클무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715337",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/7/small_715337.jpg?t=20260625",
     "score": 0,
-    "views": 2077,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 550,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715272",
+    "id": "715336",
     "site": "ppomppu",
-    "title": "100% 천연펄프 뽑아쓰는 키친타올 100매 9개 (7,900원/무배)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715272",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/2/small_715272.jpg?t=20260625",
+    "title": "버뮤다 무선 온열 종아리 마사지기 2개세트 (49,000원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715336",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/6/small_715336.jpg?t=20260625",
     "score": 0,
-    "views": 937,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 358,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715270",
+    "id": "715335",
     "site": "ppomppu",
-    "title": "동물복지 난각번호2번 유정란 40구 (15,340원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715270",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/0/small_715270.jpg?t=20260625",
+    "title": "g7 블랙 라이트 커피 270개입+25개입+아이스트레이 (23,900원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715335",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/5/small_715335.jpg?t=20260625",
     "score": 0,
-    "views": 1020,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 334,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715269",
+    "id": "715334",
     "site": "ppomppu",
-    "title": "메가커피 1만 금액권 (멤버십 8,730원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715269",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/9/small_715269.jpg?t=20260625",
+    "title": "불사조불닭 300g 3팩 (13,900원/무료배송)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715334",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/4/small_715334.jpg?t=20260625",
     "score": 0,
-    "views": 1727,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 366,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715268",
+    "id": "715333",
     "site": "ppomppu",
-    "title": "wpc 컴팩트 5단 남자 양우산 (25,810원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715268",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/8/small_715268.jpg?t=20260625",
+    "title": "국내산 흰다리새우 500g 횟감용 (20-23미내외) (19,500원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715333",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/3/small_715333.jpg?t=20260625",
     "score": 0,
-    "views": 2189,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 470,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715267",
+    "id": "715332",
     "site": "ppomppu",
-    "title": "CQR 쿨링 2IN1 바지 벨트포함 (25,800원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715267",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/7/small_715267.jpg?t=20260625",
+    "title": "다우니 실내건조 신제품 코튼&프레시 비누향 1L 3개+리필 1.35L (24,500원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715332",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/2/small_715332.jpg?t=20260625",
     "score": 0,
-    "views": 1894,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 329,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715264",
+    "id": "715331",
     "site": "ppomppu",
-    "title": "뉴티클래식 (29,000원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715264",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/4/small_715264.jpg?t=20260625",
+    "title": "[대상웰라이프X지혜픽] 것시스 다이어트 B프로 유산균 1+1 (47,900원/무배)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715331",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/1/small_715331.jpg?t=20260625",
     "score": 0,
-    "views": 824,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 292,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715262",
+    "id": "715330",
     "site": "ppomppu",
-    "title": "클라 국내생산 캡슐세제 듀얼 100개입+4p 증정 (7,900원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715262",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/2/small_715262.jpg?t=20260625",
+    "title": "빈츠 204g (8.5g x 24봉) 6개 (22,500원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715330",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/0/small_715330.jpg?t=20260625",
     "score": 0,
-    "views": 1203,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 364,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "715261",
+    "id": "715329",
     "site": "ppomppu",
-    "title": "오리 고구마 등 강아지 간식 1kg+1kg (21,080원/무료)",
-    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715261",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/1/small_715261.jpg?t=20260625",
+    "title": "유기농 엑스트라 버진 올리브오일 스틱 블루베리 14포 x 3팩 (32,300원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715329",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/9/small_715329.jpg?t=20260625",
     "score": 0,
-    "views": 947,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 299,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
-    "id": "302899",
+    "id": "715328",
     "site": "ppomppu",
-    "title": "[토스] 크리넥스 울트라클린 3겹  25m 24롤 2팩 + 마이비데 30매 + GS 2,000원권 (21,900원/무배)",
-    "url": "https://www.ppomppu.co.kr/zboard/zboard/view.php?id=pmarket&&no=302899",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/pmarket/9/small_302899.jpg",
+    "title": "칠성사이다 제로 무라벨 300ml 20펫 (11,000원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715328",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/8/small_715328.jpg?t=20260625",
     "score": 0,
-    "views": 851,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 432,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "715327",
+    "site": "ppomppu",
+    "title": "신비복숭아 순차출고 로얄과 2kg 16-22과 (14,900원/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715327",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/7/small_715327.jpg?t=20260625",
+    "score": 0,
+    "views": 428,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "715326",
+    "site": "ppomppu",
+    "title": "임성근의 진삼계탕 1kg 5개(20720/무료)",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=113&no=715326",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/ppomppu/6/small_715326.jpg?t=20260625",
+    "score": 0,
+    "views": 1291,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "302907",
@@ -826,8 +826,28 @@
     "url": "https://www.ppomppu.co.kr/zboard/zboard/view.php?id=pmarket&&no=302907",
     "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/pmarket/7/small_302907.jpg",
     "score": 0,
-    "views": 120,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 423,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "302899",
+    "site": "ppomppu",
+    "title": "[토스] 크리넥스 울트라클린 3겹  25m 24롤 2팩 + 마이비데 30매 + GS 2,000원권 (21,900원/무배)",
+    "url": "https://www.ppomppu.co.kr/zboard/zboard/view.php?id=pmarket&&no=302899",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data/_thumb/pmarket/9/small_302899.jpg",
+    "score": 0,
+    "views": 1057,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
+  },
+  {
+    "id": "49231",
+    "site": "ppomppu",
+    "title": "애플워치9 스포츠밴드 45mm 블루투스용 미드나이트 (345,000원)",
+    "url": "https://www.ppomppu.co.kr/zboard/zboard/view.php?id=social&no=49231",
+    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0625/20260625162315_86o2XThYo1.png",
+    "score": 0,
+    "views": 273,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   },
   {
     "id": "49228",
@@ -836,27 +856,7 @@
     "url": "https://www.ppomppu.co.kr/zboard/zboard/view.php?id=social&no=49228",
     "thumb": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0625/20260625124844_CfgLvioJ0J.webp",
     "score": 0,
-    "views": 457,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "49226",
-    "site": "ppomppu",
-    "title": "지마켓에서 닭갈비 원플원에 증정품도 주는데 9,900원이네요",
-    "url": "https://www.ppomppu.co.kr/zboard/zboard/view.php?id=social&no=49226",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0625/20260625110830_z94CM1pp7I.png",
-    "score": 0,
-    "views": 472,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
-  },
-  {
-    "id": "49225",
-    "site": "ppomppu",
-    "title": "[메가마트몰] 젤리 모음전 2개이상 50% (5980원/3만원이상 무배)",
-    "url": "https://www.ppomppu.co.kr/zboard/zboard/view.php?id=social&no=49225",
-    "thumb": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0625/20260625110127_ke3ANZ749y.jpg",
-    "score": 0,
-    "views": 273,
-    "crawled_at": "2026-06-25T04:45:40.366446+00:00"
+    "views": 1518,
+    "crawled_at": "2026-06-25T08:23:14.187931+00:00"
   }
 ]
